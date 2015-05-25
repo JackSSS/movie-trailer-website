@@ -3,7 +3,7 @@ Jack's Favorite Movies Version 1.0 05/23/2015
 GENERAL USAGE NOTES
 --------------------
 
-- This program is a webpage of eight movie desciptions and trailers.
+- This program is a webpage of eight movie descriptions and trailers.
 
 - Run movie_list.py to load the website. Enjoy!
 -----------------------------------------
@@ -31,5 +31,5 @@ Credits and Acknowledgements
 -----------------------------
 
 Author of media.py and movie_list.py: Jack Sneed
-Though I made some tweaks, tomatoes.py was written by Udacity
+Though I made minor tweaks, tomatoes.py was written by Udacity
 
