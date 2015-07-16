@@ -1,7 +1,7 @@
 import media
 import fresh_tomatoes
 
-# The following key-value pairs assign class attributes to movie names.
+# Class attributes to movie names.
 guardians_of_the_galaxy = media.Movie("Guardians of the Galaxy",
                                       "A group of intergalactic criminals are "
                                       "forced to work together to stop a "
